@@ -10,11 +10,11 @@
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/pjlasl/corail-woodcutter-fabric-addon"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/corailaddon/icon.png",
+  "icon": "assets/corailaddon/CorailAddon.png",
 
   "environment": "*",
   "entrypoints": {
@@ -31,7 +31,7 @@
     "fabric": "*",
     "minecraft": "1.15.x",
     "libcd": ["^1.6.0", "^2.0.0"],
-    "corail_woodcutter": "^1.0.0"
+    "corail_woodcutter": "1.0.0"
   },
   "suggests": {
     "flamingo": "*"
