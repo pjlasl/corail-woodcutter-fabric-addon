@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:cypress_log"
+    },
+    "result": "terrestria:cypress_door",
+    "count": 4
+}

@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:willow_log"
+    },
+    "result": "terrestria:stripped_willow_log",
+    "count": 1
+}

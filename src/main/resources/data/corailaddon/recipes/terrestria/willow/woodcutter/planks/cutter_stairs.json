@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:willow_planks"
+    },
+    "result": "terrestria:willow_stairs",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:willow_log"
+    },
+    "result": "minecraft:bowl",
+    "count": 4
+}

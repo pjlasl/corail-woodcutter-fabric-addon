@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:rainbow_eucalyptus_planks"
+    },
+    "result": "terrestria:rainbow_eucalyptus_trapdoor",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:rubber_planks"
+    },
+    "result": "minecraft:bowl",
+    "count": 1
+}

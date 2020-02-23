@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:rubber_planks"
+    },
+    "result": "terrestria:rubber_fence",
+    "count": 1
+}

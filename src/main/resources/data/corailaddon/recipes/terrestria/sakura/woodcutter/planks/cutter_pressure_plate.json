@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:sakura_planks"
+    },
+    "result": "terrestria:sakura_pressure_plate",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:redwood_planks"
+    },
+    "result": "terrestria:redwood_sign",
+    "count": 1
+}

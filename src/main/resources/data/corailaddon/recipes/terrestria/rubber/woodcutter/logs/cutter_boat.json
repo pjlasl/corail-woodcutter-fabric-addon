@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:rubber_log"
+    },
+    "result": "terrestria:rubber_boat",
+    "count": 1
+}

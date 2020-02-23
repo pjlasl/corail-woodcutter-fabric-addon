@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:hemlock_planks"
+    },
+    "result": "minecraft:stick",
+    "count": 2
+}

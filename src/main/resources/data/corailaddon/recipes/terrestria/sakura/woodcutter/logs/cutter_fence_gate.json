@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:sakura_log"
+    },
+    "result": "terrestria:sakura_fence_gate",
+    "count": 1
+}

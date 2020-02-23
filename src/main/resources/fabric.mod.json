@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "corailaddon",
+  "version": "${version}",
+
+  "name": "Corail Woodcutter Addon Mod",
+  "description": "This mod includes terrestria and Traverse!",
+  "authors": [
+    "Pablleaf"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/corailaddon/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.corail.cutter.Addon"
+    ]
+  },
+  "mixins": [
+    
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.2",
+    "fabric": "*",
+    "minecraft": "1.15.x",
+    "libcd": ["^1.6.0", "^2.0.0"],
+    "corail_woodcutter": "^1.0.0"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

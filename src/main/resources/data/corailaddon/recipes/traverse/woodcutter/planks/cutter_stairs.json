@@ -1,0 +1,14 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "traverse:fir_planks"
+    },
+    "result": "traverse:fir_stairs",
+    "count": 1,
+    "conditions": [
+        {
+            "type": "fabric:mod_loaded",
+            "modid": "corail_woodcutter"
+        }
+    ]
+}

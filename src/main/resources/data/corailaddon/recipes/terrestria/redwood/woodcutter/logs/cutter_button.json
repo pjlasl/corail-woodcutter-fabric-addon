@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:redwood_log"
+    },
+    "result": "terrestria:redwood_button",
+    "count": 4
+}

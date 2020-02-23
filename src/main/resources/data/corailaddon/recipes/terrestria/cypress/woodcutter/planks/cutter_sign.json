@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:cypress_planks"
+    },
+    "result": "terrestria:cypress_sign",
+    "count": 1
+}

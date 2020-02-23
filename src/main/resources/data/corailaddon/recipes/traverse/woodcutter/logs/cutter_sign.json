@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "traverse:fir_log"
+    },
+    "result": "traverse:fir_sign",
+    "count": 4
+}
