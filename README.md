@@ -1,16 +1,7 @@
-# Fabric Example Mod
+# Corail Woodcutter Fabric Addon
 
-## Setup
+This mod is an addition to the Corail Woodcutter mod for Fabric. It allows the following Wood types to also be cut using the woodcutter:
 
-1. Edit build.gradle and mod.json to suit your needs.
-    * The "mixins" object can be removed from mod.json if you do not need to use mixins.
-    * Please replace all occurences of "modid" with your own mod ID - sometimes, a different string may also suffice.
-2. Run the following command:
-
-```
-./gradlew idea
-```
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+1. Terrestria wood blocks
+2. Traverse wood blocks
+3. More coming soon...
