@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "minecraft:birch_log"
+    },
+    "result": "exotic-blocks:birch_wedge_outside",
+    "count": 4
+}

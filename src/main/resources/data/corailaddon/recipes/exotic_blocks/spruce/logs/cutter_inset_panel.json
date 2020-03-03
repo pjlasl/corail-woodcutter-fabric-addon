@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "minecraft:spruce_log"
+    },
+    "result": "exotic-blocks:spruce_inset_panel",
+    "count": 4
+}

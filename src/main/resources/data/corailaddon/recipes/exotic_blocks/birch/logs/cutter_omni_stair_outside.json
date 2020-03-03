@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "minecraft:birch_log"
+    },
+    "result": "exotic-blocks:birch_omni_stair_outside",
+    "count": 4
+}

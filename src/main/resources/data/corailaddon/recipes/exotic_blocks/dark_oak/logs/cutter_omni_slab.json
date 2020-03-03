@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "minecraft:dark_oak_log"
+    },
+    "result": "exotic-blocks:dark_oak_omni_slab",
+    "count": 8
+}

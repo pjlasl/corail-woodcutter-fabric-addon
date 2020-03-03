@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "minecraft:spruce_log"
+    },
+    "result": "exotic-blocks:spruce_square_column",
+    "count": 4
+}

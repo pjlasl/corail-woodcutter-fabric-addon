@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "minecraft:acacia_log"
+    },
+    "result": "exotic-blocks:acacia_omni_stair_inside",
+    "count": 4
+}

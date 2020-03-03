@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "minecraft:jungle_log"
+    },
+    "result": "exotic-blocks:jungle_omni_stair_outside",
+    "count": 4
+}

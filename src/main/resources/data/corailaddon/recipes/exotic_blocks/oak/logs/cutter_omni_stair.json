@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "minecraft:oak_log"
+    },
+    "result": "exotic-blocks:oak_omni_stair",
+    "count": 4
+}
