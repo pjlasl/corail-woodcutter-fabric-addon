@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:sakura_log"
+    },
+    "result": "adorn:terrestria_sakura_post",
+    "count": 8
+}

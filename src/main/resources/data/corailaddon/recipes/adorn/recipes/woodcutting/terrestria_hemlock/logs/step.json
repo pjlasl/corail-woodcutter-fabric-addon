@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:hemlock_log"
+    },
+    "result": "adorn:terrestria_hemlock_step",
+    "count": 8
+}

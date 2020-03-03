@@ -4,10 +4,8 @@
   "version": "${version}",
 
   "name": "Corail Woodcutter Addon Mod",
-  "description": "This mod includes terrestria and Traverse!",
-  "authors": [
-    "Pablleaf"
-  ],
+  "description": "This mod makes different wood types from other mods available in the woodcutter!",
+  "authors": ["Pablleaf"],
   "contact": {
     "homepage": "https://fabricmc.net/",
     "sources": "https://github.com/pjlasl/corail-woodcutter-fabric-addon"

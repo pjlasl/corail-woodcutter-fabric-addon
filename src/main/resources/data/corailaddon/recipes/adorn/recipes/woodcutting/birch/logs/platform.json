@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "minecraft:birch_log"
+    },
+    "result": "adorn:birch_platform",
+    "count": 4
+}

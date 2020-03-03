@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "minecraft:spruce_log"
+    },
+    "result": "adorn:spruce_step",
+    "count": 8
+}
