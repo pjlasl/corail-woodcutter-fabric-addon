@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "terrestria:japanese_maple_planks"
+    },
+    "result": "adorn:terrestria_japanese_maple_platform",
+    "count": 1
+}
