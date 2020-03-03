@@ -1,0 +1,8 @@
+{
+    "type": "corail_woodcutter:woodcutting",
+    "ingredient": {
+        "item": "blockus:bamboo_planks"
+    },
+    "result": "blockus:bamboo_trapdoor",
+    "count": 1
+}
