@@ -1,8 +1,8 @@
 {
     "type": "corail_woodcutter:woodcutting",
     "ingredient": {
-        "item": "terrestria:japanes_maple_log"
+        "item": "terrestria:japanese_maple_log"
     },
-    "result": "adorn:terrestria_japanes_maple_post",
+    "result": "adorn:terrestria_japanese_maple_post",
     "count": 8
 }
