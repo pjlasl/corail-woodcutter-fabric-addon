@@ -20,9 +20,9 @@
       "net.corail.cutter.Addon"
     ]
   },
-  "mixins": [
-    
-  ],
+  // "mixins": [
+  //   "corailaddon.mixins.json"
+  // ],
 
   "depends": {
     "fabricloader": ">=0.7.2",
