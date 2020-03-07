@@ -20,14 +20,8 @@
       "net.corail.cutter.Addon"
     ]
   },
-  // "mixins": [
-  //   "corailaddon.mixins.json"
-  // ],
-
   "depends": {
     "fabricloader": ">=0.7.2",
-    "fabric": "*",
-    "minecraft": "1.15.x",
     "libcd": ["^1.6.0", "^2.0.0"]
   },
   "suggests": {
